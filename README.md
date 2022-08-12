@@ -1,3 +1,2 @@
-# Proiect3
-<YAY, I AM ANDREEA!>
-
+# **Proiect3**
+## Hello, I am Andreea!
