@@ -7,8 +7,15 @@
 *Voi incerca sa fac un calculator"
 
 <div>
-First number<input type="text"> id="first number"/>
+First number<input type="text"/>
   </div>
 <div>
-Second number<input type="text"> id="second number"/>
+Second number<input type="text"/>
+  </div>
+
+<div> 
+<input type = "button type"="button" value = "adunare"/>
+<input type = "button type"="button" value = "scadere"/>
+<input type = "button type"="button" value = "inmultire"/>
+<input type = "button type"="button" value = "adunare"/>
   </div>
