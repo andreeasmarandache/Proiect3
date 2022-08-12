@@ -18,6 +18,6 @@
 * *Determinare, munca, ambitie, dorinta foarte mare de a pleca din Logistica si a porni pe noul drum care eu cred ca mi se potriveste.* 
 * *Acum ma trezesc cu chef sa merg la munca (lucrez de acasa, iar alt mare plus), sa ma apuc de treaba si sa invat cat mai multe.*
 
-![Image of Github Logos and Usage] (https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![image](https://user-images.githubusercontent.com/111050310/184359071-a9932d7c-6e5a-4934-9ac7-5901d1004b6f.png)
 
 Links: [Github] (https://github.com/logos)
