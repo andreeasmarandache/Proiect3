@@ -12,12 +12,12 @@
 
 2. Cum am ales testare?
 * *Am parcurs mai multe webinarii, cursuri gratuite pentru a vedea toate ramurile acestui domeniu.*
-* *Mi s-a parut cea mai la indemana pentru un incepator si ceva ce mi se potriveste avand si Master in Calitate (practic este tot calitate, este vorba de calitatea unui/unei site/aplicatie*
+* *Mi s-a parut cea mai la indemana pentru un incepator si ceva ce mi se potriveste avand si Master in Calitate (practic este tot calitate, este vorba de calitatea unui/unei site/aplicatie.*
 
 3. Cum am ajuns in IT?
-* *Determinare, munca, ambitie, dorinta foarte mare de a pleca din Logistica si a porni pe noul drum care eu cred ca mi se potriveste. 
+* *Determinare, munca, ambitie, dorinta foarte mare de a pleca din Logistica si a porni pe noul drum care eu cred ca mi se potriveste.* 
 * *Acum ma trezesc cu chef sa merg la munca (lucrez de acasa, iar alt mare plus), sa ma apuc de treaba si sa invat cat mai multe.*
 
-![Imagine cu ce sper sa invat in viitorul apropiat] (https://github.githubassets.com/images/modules/site/codespaces/illo-codespaces.png)
+![Image of Github Logos and Usage] (https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 Links: [Github] (https://github.com/logos)
