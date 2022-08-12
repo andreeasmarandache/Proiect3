@@ -7,10 +7,10 @@
 *Voi incerca sa fac un calculator"
 
 <div>
-First number<input type="text"/>
+First number<input type="text"/ id="first number"/>
   </div>
 <div>
-Second number<input type="text"/>
+Second number<input type="text"/ id="first number"/>
   </div>
 
 <div> 
