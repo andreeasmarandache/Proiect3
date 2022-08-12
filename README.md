@@ -7,3 +7,7 @@
 
 <div>
 First number<input type="text">
+  </div>
+<div>
+Second number<input type="text">
+  </div>
