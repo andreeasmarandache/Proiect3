@@ -1,0 +1,58 @@
+<script>
+
+a=17;
+b=10;
+
+if(a>b){
+    console.log("Numarul a este mai mare decat b.");
+}
+else{
+    console.log("Nu este indeplinita conditia.");
+}
+
+masini=["bmw","dacia","mercedes","kia"]
+
+for(i=0;i<4;i++){
+    console.log("Masina cu numarul " +(i+1) +" este " + masini[i]);
+
+
+}
+
+function produs(a=4, b=5){
+    console.log("Produsul numerelor este " + (a*b) );
+
+}
+produs();
+
+function produs(a,b){
+console.log("Produsul numerelor este " + a*b + ".");
+}
+produs(5,9);
+
+function datePersonale (nume="Andreea", sex="f"){
+
+    let a
+
+    if(a="f"){
+        console.log("Salut doamna " + nume);
+    }
+    else{
+        console.log("Salut domnule " + nume);
+    }
+
+}
+
+datePersonale();
+
+function datePersonale1(nume,sex){
+if(sex === "f"){
+console.log("Salut doamna " + nume + ".");
+}
+else{
+console.log("Salut domnul " + nume + ".");
+}
+}
+datePersonale1("Raul","m" );
+datePersonale1("Cristina","f")
+
+</script>
