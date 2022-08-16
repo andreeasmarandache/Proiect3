@@ -1,0 +1,153 @@
+<script>
+
+// variabila
+//let varsta = 30;
+
+// constanta
+//const varstaCurenta = 36;
+
+//varsta = 31;
+//varsta = 32;
+
+let nume = "Andreea" ; // tip de date : string
+let varsta = 30 ; // tip de date : numeric
+let statutMarital = true ; // tip de date boolean sau true/false
+// let statutMarital = 1 ; // tip de date boolean unde 1 - true si 0 - false
+
+const numeC = "Cristina";
+const varstaC = 36;
+const statutMaritalC = 1;
+
+varsta = varsta % 4; // operatii de baza + - * / %
+
+
+nume = nume + " " + "Smarandache"
+
+statutMarital = false;
+//sau
+statutMarital = !statutMarital;
+
+
+
+let masini = ["Kia", "Dacia", "Audi"]; // tip de date : array sau vector
+let votPresedinte = [2006, 2010, 2014];
+
+
+let masina = {
+    marca: "KIA",
+    model: "Ceed",
+    culoare: "rosu",
+    anFabricatie: 2019,
+    inmatriculat: true,
+    extraoptiuni: ["aer conditionat", "servo-directie", "geamuri electrice"],
+    nurInmatriculat: "OT86RDA",
+    garaj: {
+        suprafata: 16,
+        strada: "Verii",
+        ocupat: true
+    },
+    salut: function(){
+        //console.log("Salut sunt masina ta")
+    }
+}
+
+//masina.salut();
+
+a = 3;
+b = 2;
+c = 5;
+
+if( a < b ){
+    //console.log("IF1");
+}
+else if(c >b){
+    //console.log("IF2");
+}
+else{
+    //console.log("ELSE");
+}
+
+
+for(i=0; i<5; i++){
+    //console.log("Numarul curent este " + i);
+}
+
+
+animale = ["pisica", "maimuta", "leul"];
+
+for(i=0; i<3; i++){
+    //console.log("Animalul preferat este " + animale[i]);
+}
+
+function salut(n){
+    //console.log("Salut " + n);
+}
+salut("Andreea");
+
+salut("Cristina");
+
+function impartire (a,b){
+    //console.log("Impartirea e = " + a/b);
+
+}
+
+//impartire(8,2);
+
+function datePersonale(nume, varsta, angajat){
+
+    let a;
+
+    if(angajat === true){
+        a = "angajat";
+    }
+    else{
+        a="somer"
+    }
+
+    //console.log(nume + " are varsta de " + varsta + " ani si este " + a);
+
+}
+
+//datePersonale("Andreea", 36 , true);
+
+//datePersonale("Mihaela", 40, false);
+
+
+function afisareMasini(x){
+
+    for(i=0; i<x.length; i++){
+        console.log(x[i]);
+    }
+}
+
+afisareMasini(["Kia", "Dacia", "Audi"]);
+afisareMasini(["Kia", "Dacia", "Audi", "BMW"]);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script>
