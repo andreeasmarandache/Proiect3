@@ -2,8 +2,7 @@
 ## Hello, I am Andreea!
 
 ### Sunt QA engineer, dar momentan ma ocup doar de testare manuala.
-> Oare voi reusi sa invat si testarea automata?
-*Momentan ma joc si incerc.*
+> Acum incerc sa invat cate ceva despre testarea automata.
 *Voi incerca sa adaug cate ceva despre mine, un link si o poza pentru inceput.*
 
 1. De ce am vrut sa ma specializez in domeniu IT?
