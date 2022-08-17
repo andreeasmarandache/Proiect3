@@ -22,4 +22,3 @@
 
 Links: https://github.blog/2013-04-16-new-github-logo/
 
-* mai adaug ceva
